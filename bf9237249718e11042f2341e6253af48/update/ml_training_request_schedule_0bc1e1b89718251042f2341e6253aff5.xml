@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_training_request_schedule">
+    <ml_training_request_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <capability/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <ml_capability_definition display_value="Closed alert similarity">f8d74bdddbc18850a6d183243996194d</ml_capability_definition>
+        <ml_solution/>
+        <name>Closed alert similarity</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period>1970-01-31 00:00:00</run_period>
+        <run_start>2023-01-07 13:23:48</run_start>
+        <run_time/>
+        <run_type>periodically</run_type>
+        <solution_definition/>
+        <sys_class_name>ml_training_request_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-07 13:23:48</sys_created_on>
+        <sys_id>0bc1e1b89718251042f2341e6253aff5</sys_id>
+        <sys_name>Closed alert similarity</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_596459_ipinfo_sp">bf9237249718e11042f2341e6253af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">bf9237249718e11042f2341e6253af48</sys_scope>
+        <sys_update_name>ml_training_request_schedule_0bc1e1b89718251042f2341e6253aff5</sys_update_name>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </ml_training_request_schedule>
+</record_update>
